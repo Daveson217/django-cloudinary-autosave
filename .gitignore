@@ -1,0 +1,8 @@
+.env
+.coverage
+.coveragerc
+staticfiles/
+media/
+htmlcov/
+db.sqlite3
+db.sqlite3-journal
