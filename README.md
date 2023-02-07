@@ -1,7 +1,7 @@
 # Django-cloudinary-autosave
 > A repo for this dev.to post that I made explaining how to use the `autosave` attribute in [pycloudinary](https://github.com/cloudinary/pycloudinary)'s `CloudinaryFileField`.
 
-Read the post [here]()
+Read the post [here](https://dev.to/daveson217/how-to-use-autosavefalse-in-cloudinaryfilefield-when-using-django-forms-30c6)
 
 ## Requirements
 Tools and packages required to successfully install this project.
